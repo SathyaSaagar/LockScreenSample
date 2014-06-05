@@ -1,0 +1,2 @@
+include ':teddsdroidtools', ':LockScreenApp', ':LockStrength', ':futonic-lockscreenswitchwidget', ':MobileAdz', ':app', ':SimplyLockscreenTheme'
+project(':MobileAdz').projectDir = new File('partime/MobileAdz')
